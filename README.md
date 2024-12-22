@@ -29,7 +29,8 @@ Tools and Software Used
    Tableau: Version 2024.3.0
 Workflow
     Part 1: Database Management with MS SQL Server
-       Imported and structured the sales data in MS SQL Server.
+       Imported the data from the csv file which is added in the repository with a name pizza_sales.csv and structured the sales data in 
+       MS SQL Server.
        Created a database for storing and organizing the data.
        Wrote SQL queries to calculate the required metrics.
        Generated a report summarizing the insights derived from SQL queries.
